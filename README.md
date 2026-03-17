@@ -1,4 +1,4 @@
-# Warehouse Management System :
+# Supply-Chain (Warehouse) Management System :
 •  Developed a full-stack application using Java, Spring Boot, SQL, and ReactJS.
 
 •  Implemented blockchain authentication with Ethereum and Solidity smart contracts.
